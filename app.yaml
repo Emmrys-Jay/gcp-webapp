@@ -1,5 +1,4 @@
 runtime: go115
-version: 1
 
 handlers:
 - url: /.*
